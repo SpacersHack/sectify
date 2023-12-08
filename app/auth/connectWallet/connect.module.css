@@ -1,0 +1,4 @@
+.main {
+    @apply flex h-screen flex-col items-center justify-center p-2 md:p-24  relative py-3;
+  }
+  
